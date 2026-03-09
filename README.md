@@ -1,4 +1,3 @@
-# tcc-ecai-ufrr-series-temporais
 🚌 TranspoPredict: ML Demand Forecasting for Road Transport
 
 Atenção: Este repositório contém o código-fonte desenvolvido para o Trabalho de Conclusão de Curso (TCC) da Especialização em Inteligência Artificial Aplicada à Indústria 4.0 pela Universidade Federal de Roraima (UFRR).
@@ -23,6 +22,7 @@ Mecanismo de Segurança (Arranque a Frio): O painel avalia a latência dos dados
 
 📸 Capturas de Ecrã / Screenshots
 
+!
 Interface de previsão otimizada com validação de status de dados em tempo real.
 
 🛠️ Tecnologias Utilizadas / Tech Stack
@@ -47,7 +47,7 @@ O ficheiro dataset_mock.csv fornecido contém dados inteiramente fictícios/anon
 
 Clone o repositório:
 
-git clone [https://github.com/SeuUsuario/TranspoPredict.git](https://github.com/SeuUsuario/TranspoPredict.git)
+git clone [https://github.com/shaolinbertrand/tcc-ecai-ufrr-series-temporais.git](https://github.com/shaolinbertrand/tcc-ecai-ufrr-series-temporais.git)
 
 
 Instale as dependências:
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 Execute o Notebook:
 
-jupyter notebook dashboard_previsao.ipynb
+jupyter notebook TCC.ipynb
 
 
 👨‍💻 Autor / Author
