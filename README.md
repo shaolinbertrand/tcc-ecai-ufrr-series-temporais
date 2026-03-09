@@ -1,0 +1,1 @@
+# tcc-ecai-ufrr-series-temporais
